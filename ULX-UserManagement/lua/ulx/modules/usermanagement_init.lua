@@ -16,7 +16,7 @@ usermanagement.SetConfig("groups", groups);
 usermanagement.SetConfig("excludeAdmins", true)
 
 -- Other options
-usermanagement.SetConfig("debug", true);
+usermanagement.SetConfig("debug", false);
 usermanagement.SetConfig("debugDebugFile", "debug.txt");
 usermanagement.SetConfig("debugErrorsFile", "errors.txt");
 

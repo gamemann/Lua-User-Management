@@ -28,7 +28,7 @@ local config =
 	port = 3306;
 	groups = {};
 	excludeAdmins = true;
-	debug = true;
+	debug = false;
 	debugDebugFile = "notifications.txt";
 	debugErrorsFile = "errors.txt";
 };
